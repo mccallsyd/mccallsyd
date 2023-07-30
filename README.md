@@ -4,11 +4,11 @@
 <p align="center"> <a href="https://twitter.com/mccallmesydney" target="blank"><img src="https://img.shields.io/twitter/follow/mccallmesydney?logo=twitter&style=for-the-badge" alt="mccallmesydney" /></a> </p>
 
 <div align="center">
-<p> 🔭 I’m currently working on <a href='https://www.instagram.com/poppyandfennel/?hl=en'>**Poppy & Fennel Blog**</a></p>
+<p align="left"> 🔭 I’m currently working on <a href='https://www.instagram.com/poppyandfennel/?hl=en'>**Poppy & Fennel Blog**</a></p>
 
-<p> 🌱 I’m currently learning **Javascript**</p>
+<p align="left"> 🌱 I’m currently learning **Javascript**</p>
 
-<p> 👩🏾‍💻 All of my projects are available at <a href='https://designsbysyd.netlify.app'>**Designs by Syd**</a></p>
+<p align="left"> 👩🏾‍💻 All of my projects are available at <a href='https://designsbysyd.netlify.app'>**Designs by Syd**</a></p>
 </div>
 
 <h3 align="center">Connect with me:</h3>
