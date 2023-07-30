@@ -7,7 +7,7 @@
 
 <p align="center"> 🌱 I’m currently learning **Javascript**</p>
 
-<p align="center"> 👩🏾‍💻 All of my projects are available at [https://designsbysyd.netlify.app/](https://designsbysyd.netlify.app/)</p>
+<p align="center"> 👩🏾‍💻 All of my projects are available at https://designsbysyd.netlify.app/](https://designsbysyd.netlify.app/</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
