@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 All of my projects are available at [https://designsbysyd.netlify.app/](https://designsbysyd.netlify.app/)
+- 👩🏾‍💻 All of my projects are available at [https://designsbysyd.netlify.app/](https://designsbysyd.netlify.app/)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
