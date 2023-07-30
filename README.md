@@ -3,8 +3,8 @@
 
 <p align="center"> <a href="https://twitter.com/mccallmesydney" target="blank"><img src="https://img.shields.io/twitter/follow/mccallmesydney?logo=twitter&style=for-the-badge" alt="mccallmesydney" /></a> </p>
 
-<div align="center">
-<p align="left"> 🔭 I’m currently working on <a href='https://www.instagram.com/poppyandfennel/?hl=en'>**Poppy & Fennel Blog**</a></p>
+
+<div align="center"><p align="left"> 🔭 I’m currently working on <a href='https://www.instagram.com/poppyandfennel/?hl=en'>**Poppy & Fennel Blog**</a></p></div>
 
 <p align="left"> 🌱 I’m currently learning **Javascript**</p>
 
