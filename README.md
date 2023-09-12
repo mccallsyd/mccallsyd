@@ -6,7 +6,7 @@
 
 <p align="center"> 🔭 I’m currently working on <a href='https://www.instagram.com/poppyandfennel/?hl=en'>**Poppy & Fennel Blog**</a></p></div>
 
-<p align="center"> 🌱 I’m currently learning **Javascript**</p>
+<p align="center"> 🌱 I’m currently learning **Node.js**</p>
 
 <p align="center"> 👩🏾‍💻 All of my projects are available at <a href='https://designsbysyd.netlify.app'>**Designs by Syd**</a></p>
 </div>
