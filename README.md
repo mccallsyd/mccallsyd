@@ -4,7 +4,7 @@
 <p align="center"> <a href="https://twitter.com/mccallmesydney" target="blank"><img src="https://img.shields.io/twitter/follow/mccallmesydney?logo=twitter&style=for-the-badge" alt="mccallmesydney" /></a> </p>
 
 
-<p align="center"> 🔭 I’m currently working on <a target='_blank' href='https://www.wealthscienceanalytics.com/'>**Wealth Science Analytics Redesign**</a></p></div>
+<p align="center"> 🔭 I’m currently working on <a target='_blank' href='https://www.wealthscienceadvisors.net/'>**Wealth Science Advisor's Redesign**</a></p></div>
 
 <p align="center"> 🌱 I’m currently learning **Node.js**</p>
 
