@@ -21,8 +21,7 @@
 <p align="center">
 <a href="https://twitter.com/mccallmesydney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mccallmesydney" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sydney-mccall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sydney-mccall" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mccallsyd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mccallsyd" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/mccallmesydney/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mccallsyd" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mccallmesydney/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mccallsyd" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
