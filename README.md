@@ -4,12 +4,18 @@
 <p align="center"> <a href="https://twitter.com/mccallmesydney" target="blank"><img src="https://img.shields.io/twitter/follow/mccallmesydney?logo=twitter&style=for-the-badge" alt="mccallmesydney" /></a> </p>
 
 
-<p align="center"> 🔭 I’m currently working on <a target='_blank' href='https://www.wealthscienceadvisors.net/'>**Wealth Science Advisor's Redesign**</a></p></div>
+<p align="center"> 🔭 I’m currently working on <a target='_blank' href='https://www.feelfreeyogawellness.com/'>**Feel Free Yoga + Wellness Redesign**</a></p>
 
-<p align="center"> 🌱 I’m currently learning **Node.js**</p>
+<p align="center"> 🌱 I’m currently learning **Javascript, Python, SQL**</p>
 
-<p align="center"> 👩🏾‍💻 All of my projects are available at <a target='_blank' href='https://designsbysyd.netlify.app'>**Designs by Syd**</a></p>
-</div>
+<p align="center"> 🫶🏾 I’m looking for help with **SQL**</p>
+
+<p align="center"> 👩🏾‍💻 All of my projects are available on <a target='_blank' href='https://impala-dachshund-dw3x.squarespace.com/'>**My Portfolio**</a></p>
+
+<p align="center"> 📄 Learn about my experiences on <a target ='_blank' href='https://www.linkedin.com/in/sydney-mccall/'> **LinkedIn**</p></a>
+
+<p align="center"> 🪷 Fun fact: **I'm a yoga instructor.**</p>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
