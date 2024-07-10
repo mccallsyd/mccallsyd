@@ -8,7 +8,7 @@
 
 <p align="center"> 🌱 I’m currently learning **Javascript, Python, SQL**</p>
 
-<p align="center"> 👩🏾‍💻 All of my projects are available on <a target='_blank' href='https://impala-dachshund-dw3x.squarespace.com/'>**My Portfolio**</a></p>
+<p align="center"> 👩🏾‍💻 All of my projects are available on <a target='_blank' href='sydmccall.com/'>**My Portfolio**</a></p>
 
 <p align="center"> 📄 Learn about my experiences on <a target ='_blank' href='https://www.linkedin.com/in/sydney-mccall/'> **LinkedIn**</p></a>
 
