@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Sydney</h1>
 <h3 align="center">A front-end developer from Atlanta, Georgia</h3>
 
-<p align="center"> <a href="https://twitter.com/mccallmesydney" target="blank"><img src="https://img.shields.io/twitter/follow/mccallmesydney?logo=twitter&style=for-the-badge" alt="mccallmesydney" /></a> </p>
-
 <p align="center"> 👩🏾‍💻 All of my projects are available on <a target='_blank' href='https://www.sydmccall.com/'>**My Portfolio**</a></p>
 
 <p align="center"> 📄 Learn about my experiences on <a target ='_blank' href='https://www.linkedin.com/in/sydney-mccall/'> **LinkedIn**</p></a>
