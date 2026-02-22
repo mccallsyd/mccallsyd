@@ -1,14 +1,7 @@
 <h1 align="center">Hi, I'm Sydney</h1>
-<h3 align="center">A software engineer from Atlanta, Georgia</h3>
+<h3 align="center">A front-end developer from Atlanta, Georgia</h3>
 
 <p align="center"> <a href="https://twitter.com/mccallmesydney" target="blank"><img src="https://img.shields.io/twitter/follow/mccallmesydney?logo=twitter&style=for-the-badge" alt="mccallmesydney" /></a> </p>
-
-
-<p align="center"> 🔭 I’m currently working on <a target='_blank' href='https://www.instagram.com/deltadiving/'>**Delta Diving Website Launch**</a></p>
-
-<p align="center"> 🙌🏾 I just completed <a target='_blank' href='https://www.susanbleyle.com/'>**Susan Bleyle Website Redesign**</a></p>
-
-<p align="center"> 🌱 I’m currently learning **Javascript, Python, SQL**</p>
 
 <p align="center"> 👩🏾‍💻 All of my projects are available on <a target='_blank' href='https://www.sydmccall.com/'>**My Portfolio**</a></p>
 
