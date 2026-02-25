@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Sydney</h1>
 <h3 align="center">A front-end developer from Atlanta, Georgia</h3>
 
-<p align="center"> 👩🏾‍💻 All of my projects are available on <a target='_blank' href='https://www.sydmccall.com/'>**My Portfolio**</a></p>
+<p align="center"> 👩🏾‍💻 All of my projects are available on <a target='_blank' href='https://www.sydmccall.com/'>My Portfolio</a></p>
 
-<p align="center"> 📄 Learn about my experiences on <a target ='_blank' href='https://www.linkedin.com/in/sydney-mccall/'> **LinkedIn**</p></a>
+<p align="center"> 📄 Learn about my experiences on <a target ='_blank' href='https://www.linkedin.com/in/sydney-mccall/'> LinkedIn</p></a>
 
-<p align="center"> 🪷 Fun fact: **I'm a yoga instructor.**</p>
+<p align="center"> 🪷 Fun fact: I'm a yoga instructor.</p>
 
 
 <h3 align="center">Connect with me:</h3>
